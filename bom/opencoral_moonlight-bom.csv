@@ -1,0 +1,27 @@
+Partlist exported from /Users/atrus/Dropbox/elec/pr/opencoral_moonlight/rev0/opencoral_moonlight.sch at 9/19/11 11:29 PM
+
+Part  Value              Device             Package        Description                         
+C1    16pF               C-EUC0603          C0603          CAPACITOR, European symbol          
+C2    16pF               C-EUC0603          C0603          CAPACITOR, European symbol          
+C3    0.1uF > 5V         C-EUC0603          C0603          CAPACITOR, European symbol          
+C4    0.1uF > 25V        C-EUC0603          C0603          CAPACITOR, European symbol          
+J1    RJ12               RJ12               A-2004-RJ12                                        
+J2    POWER_JACKPTH      POWER_JACKPTH      POWER_JACK_PTH Power Jack                          
+J3    AVR_SPI_PRG_6PTH   AVR_SPI_PRG_6PTH   2X3            AVR ISP 6 Pin                       
+J4    RJ12               RJ12               A-2004-RJ12                                        
+LED1  Oslon SX           LEDOSLON_SX        OSRAM_OSLON_SX                                     
+LED2  Oslon SX           LEDOSLON_SX        OSRAM_OSLON_SX                                     
+LED3  Oslon SX           LEDOSLON_SX        OSRAM_OSLON_SX                                     
+LED4  Oslon SX           LEDOSLON_SX        OSRAM_OSLON_SX                                     
+LED5  Oslon SX           LEDOSLON_SX        OSRAM_OSLON_SX                                     
+LED6  Oslon SX           LEDOSLON_SX        OSRAM_OSLON_SX                                     
+LOGO1 SFLOGO             SFLOGO             SFLOGO                                             
+R1    0.5                R-US_R0805         R0805          RESISTOR, American symbol           
+R2    470k               R-US_R0603         R0603          RESISTOR, American symbol           
+R3    100                R-US_R0603         R0603          RESISTOR, American symbol           
+U1    A6260              A6260              ESOIC-8        Allegro A6260 Power LED Driver      
+U2    SN65HVD11SO-08     SN65HVD11SO-08     SO-08          3.3V RS-485 Transceiver, Half-Duplex
+U3    MCP1804            MCP1804            SOT223-3                                           
+U4    MCP9700            MCP9700            SOT23          MCP9700 series temperature sensors  
+U5    ATMEGA48/88/168-AU ATMEGA48/88/168-AU TQFP32-08                                          
+X1    8MHz HC49          HCM49_18.432M      HCM49          18.432 MHz SMD Crystal              
